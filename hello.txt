@@ -3,5 +3,11 @@ welcome to qwinix
 asghdh sajahjws 
 kajshdjshe
  sadfjhjajs 
+<<<<<<< HEAD
 sgaha 
 kjijoias
+=======
+ hiiiiii
+ jkkklk
+ 
+>>>>>>> dc65ec2c52fce407acb0b3d8ea15b9ab467e2236
